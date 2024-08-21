@@ -1,7 +1,7 @@
 # Group 1 Final Project
 This project is a part of the AAI-511 course in the Applied Artificial Intelligence Program at the University of San Diego (USD).
 
-**-- Project Status: Active**
+**-- Project Status: Complete**
 
 - ### Partner(s)/Contributor(s)
    * Dominic Fanucchi
